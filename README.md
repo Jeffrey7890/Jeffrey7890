@@ -1,5 +1,3 @@
-Here's a sample (link unavailable) file with markdown texts and cool emojis:
-
 *Hello World! 🌎*
 
 I'm Ogwu Jeffrey, a passionate software engineer with a strong foundation in:
